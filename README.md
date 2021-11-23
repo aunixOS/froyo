@@ -22,6 +22,8 @@ now when you run
 ```sh
 froyo
 ```
+
+alternatively you could just run the setup script
 it should be all setup
 
 ## Issues
