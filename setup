@@ -1,0 +1,4 @@
+cp froyo ~/.local/bin
+chmod +x ~/.local/bin/froyo
+sudo mkdir /opt/froyo
+sudo cp ~/froyo/froyo.py /opt/froyo/
